@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnmckennacarroll
 - 👀 I’m interested in: developing my skills further
-- 🌱 I’m currently learning: Cyber Defense 
+- 🌱 I’m currently learning: SQL & Python for Data Analytics
 - 📫 How to reach me: email 
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: my cat's name is Ashley Tisdale 🐈‍⬛

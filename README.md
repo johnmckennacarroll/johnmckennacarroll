@@ -19,7 +19,7 @@ Aspiring data analyst with experience in data analytics, business intelligence, 
 - Developing business intelligence dashboards and analytics projects
 
 ## Portfolio Projects
-Check out my featured projects and dashboards in my repositories.
+📊 [View My Data Analytics Portfolio](https://github.com/johnmckennacarroll/Portfolio)
 
 ## Contact
 📫 Reach me through GitHub or LinkedIn
